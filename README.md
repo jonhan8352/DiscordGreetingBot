@@ -2,7 +2,7 @@
 
 Here we can create a Discord Bot that interact with members with random message in specific channel in the Discord server.
 
-First we must import discord and import at the beginning of our Python code.
+First we must import discord and random library at the beginning of our Python code.
 ```
 import discord
 from discord.ext import commands
