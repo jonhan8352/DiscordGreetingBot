@@ -1,5 +1,4 @@
 # DiscordGreetingBot
-----------------------
 
 Here we can create a Discord Bot that interact with members with random message in specific channel in the Discord server.
 
