@@ -23,7 +23,7 @@ if ctx.channel.name == 'channel-name':
 ```
 Now you can create the list of random message to be send with following code.
 ```
-      responses = ["I'm doing well, thank you!", "I'm feeling great, thank you!", "I'm fine. How about you?", "I'm good. Anything I can do for you?", "I'm doing well. And you?]
+      responses = ["I'm doing well, thank you!", "I'm feeling great, thank you!", "I'm fine. How about you?", "I'm good. Anything I can do for you?", "I'm doing well. And you?"]
         await ctx.send(random.choice(responses))
     else:
         await ctx.send("This command can only be used in a specific channel.")
